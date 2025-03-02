@@ -1,7 +1,5 @@
 # 6502 Emulator
 
-![emulator](https://github.com/connergrinstead/6502-emulator/blob/main/screenshot1.png)
-
 This project is a simple MOS 6502 microcontroller emulator with the following specifications:
 
 - 8-bit CPU
@@ -11,6 +9,8 @@ This project is a simple MOS 6502 microcontroller emulator with the following sp
 
 The emulator has all necessary registers, control flags, and memory operation capabilites.
 It reads from a string of opcode instructions and executes these accordingly, manipulating registers, flags, and memory in realtime.
+
+![emulator](https://github.com/connergrinstead/6502-emulator/blob/main/screenshot1.png)
 
 # 6502 Assembler
 
